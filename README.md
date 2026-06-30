@@ -9,4 +9,6 @@ The file "Siddhant_C_Final_Project (1).ipynb" was my final project for an introd
 I want to emphasize that files do not demonstrate the limit of my skills in data analytics and computer modeling. These are somewhat simple projects that I had on hand or created just this morning. I pride myself on being highly adaptable, and if I encounter an obstacle, language, or problem that I'm unfamiliar with, I guarantee that I'll be able to work hard and find the solution.
 
 Thank you for your time,
+
 Siddhant Choudhary
+
